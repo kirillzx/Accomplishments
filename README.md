@@ -1,3 +1,6 @@
+# Certificates
+Attendance in conferences, hacks, AI competitions and courses
+
 # Presentations
 1. Spherical and Elliptical distributions - theorems and lemmas about elliptical families distributions
 2. Portfolio modeling - main information about portfolio theory and some optimization criteria

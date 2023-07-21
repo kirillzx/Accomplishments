@@ -8,3 +8,4 @@ Attendance in conferences, hacks, AI competitions and courses
 4. Bank's capital estimation - main methods of assesment of the bank's capital
 5. Almost-stable distribution - relaxation methods of Linear Programming Statement of the problem of searching almost-stable distribution with the lower limit quota
 6. Derivatives Modelling - discussion about Black-Scholes Model
+7. ICCSIT - presentation for the article "Synthetic time series generation with regime clustering" on the conference ICCSIT 2023 in Paris

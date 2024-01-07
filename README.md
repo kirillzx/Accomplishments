@@ -2,8 +2,8 @@
 1. Synthetic financial time series generation with regime clustering, 2023
   (doi: 10.12720/jait.14.6.1372-1381)
 
-3. TRGAN: A Time-Dependent Generative Adver- sarial Network for Synthetic Transactional Data Generation, 2023 (in print)
-4. Time-dependent differential privacy for en- hanced data protection in synthetic transaction generation, 2024 (in print)
+3. TRGAN: A Time-Dependent Generative Adversarial Network for Synthetic Transactional Data Generation, 2023 (in print)
+4. Time-dependent differential privacy for enhanced data protection in synthetic transaction generation, 2024 (in print)
 
 
 # Certificates
